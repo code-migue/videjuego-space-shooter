@@ -45,6 +45,8 @@ enemigo = canvas.create_rectangle(180, 50, 220, 80, fill="red")
 
 # aqui le di las Velocidades al enemigo y a la nave
 velocidad_nave = 20
+
+Melo
 velocidad_enemigo = 5
 
 
